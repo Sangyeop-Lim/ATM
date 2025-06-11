@@ -18,3 +18,8 @@ ATM-main/
 │   └── *.asset                       # 프로젝트 세팅 파일들
 ├── .gitignore
 ├── .vsconfig
+
+주요 기능
+💰 입금 / 출금 기능
+
+💳 계좌 잔액 확인
