@@ -29,8 +29,8 @@ public class UserData
         this.balance = balance;
     }
 
-    public bool CheckPassword(string password)
-    {
-        return PS == password;
-    }
+    //public bool CheckPassword(string password)
+    //{
+    //    return PS == password;
+    //}
 }
